@@ -10,4 +10,5 @@
 •	Obtained output images of separated background and instruments with slightly passivated edges and reached 0.728 DICE score. 
 
 
+### Example:
 <img width="850" height="270" src="https://github.com/ConnieZhu/Endoscopic-Instrument-Segmentation/blob/master/label_mask.png" />
